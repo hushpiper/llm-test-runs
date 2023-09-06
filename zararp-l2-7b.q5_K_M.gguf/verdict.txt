@@ -1,0 +1,1 @@
+Preliminary verdict: use a Mirostat preset (Mirostat or FreeLlama) if you're using llama.cpp. This might be different on llamacpp_hf.
