@@ -1,0 +1,3 @@
+This repository holds the raw output for hushpiper's tests of different sampler presets for local LLMs. They are currently fairly limited, but will be added to and changed over time.
+
+At present, the folder layout is model+quant -> loader -> test case. Each test case folder will include a README file which will (eventually) be populated with human-written observations and recommendations, a prompt.txt file which contains the raw text sent to the API (oobabooga's API presently), and a text file for each preset tested.
